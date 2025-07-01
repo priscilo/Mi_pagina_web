@@ -6,8 +6,8 @@ git init
 git clone ttps://github.com/priscilo/senati.python.git 
 
 git status
-
 modificar el archivo
+git status
 
 git add .
 git commit -m "Segundo"
