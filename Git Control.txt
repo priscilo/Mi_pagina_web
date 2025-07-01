@@ -1,0 +1,17 @@
+
+Crea una carpeta
+
+Proheba
+git init
+git clone ttps://github.com/priscilo/senati.python.git 
+
+git status
+
+modificar el archivo
+
+git add .
+git commit -m "Segundo"
+git push
+
+
+
