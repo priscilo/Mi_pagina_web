@@ -8,8 +8,8 @@ git clone ttps://github.com/priscilo/senati.python.git
 git status
 modificar el archivo
 git status
-
 git add .
+git status
 git commit -m "Segundo"
 git push
 
